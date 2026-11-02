@@ -1,4 +1,2 @@
-
 hotfix my solution
-Hotfix team's solution
-git commit -am "hotfix my solution 2"
+Hotfix team's solution 2
